@@ -1,0 +1,23 @@
+{
+    "label": 
+    {
+        "colours": {
+            "normal_text": "#000000"
+        }
+    },
+    "button":
+    {
+        "colours":
+        {
+            "normal_bg": "#FF0000",     
+            "hovered_bg": "#DDDDDD",    
+            "active_bg": "#BBBBBB",     
+            "normal_border": "#000000", 
+            "hovered_border": "#000000",
+            "active_border": "#000000", 
+            "normal_text": "#000000",
+            "hovered_text": "#000000",
+            "active_text": "#000000"
+        }
+    }
+}
